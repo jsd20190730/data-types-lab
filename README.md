@@ -1,4 +1,4 @@
-# PCNWLab-Types
+# Data Types Lab 
 
 Problems:
 
